@@ -21,7 +21,7 @@ Exercise 1: Create a Health Check
 **Details**
 
 +---------+-------------------------------------+
-| Name     | ``<namespace>-hc``                 |
+| Name    | ``<namespace>-hc``                  |
 +---------+-------------------------------------+
 
 Exercise 2: Create a Origin Pool and attached Health Check

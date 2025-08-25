@@ -21,7 +21,7 @@ Exercise 1: Create a Health Check
 **Details**
 
 +---------+-------------------------------------+
-|Name     | ``<namespace>-hc``                  |
+| Name     | ``<namespace>-hc``                 |
 +---------+-------------------------------------+
 
 Exercise 2: Create a Origin Pool and attached Health Check
@@ -30,15 +30,15 @@ Exercise 2: Create a Origin Pool and attached Health Check
 **Details**
 
 +---------+-------------------------------------+
-|Name     |``<namespace>-op``                   |
+| Name    | ``<namespace>-op``                  |
 +---------+-------------------------------------+
-|**Type** |Public DNS Name of Origin Server     |
+| Type    | Public DNS Name of Origin Server    |
 +---------+-------------------------------------+
-|DNS Name |``demoapp.lab-sec.f5demos.com``      |
+| DNS Name| ``demoapp.lab-sec.f5demos.com``     |
 +---------+-------------------------------------+
-|Port     |80                                   |
+| Port    | 80                                  |
 +---------+-------------------------------------+
-|TLS      |Disabled                             |
+| TLS     | Disabled                            |
 +---------+-------------------------------------+
 
 Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
@@ -46,20 +46,20 @@ Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 
 **Details**
 
-+-----------------------+-----------------------------------+
-|Name                   |``<namespace>-lb``                 |
-+-----------------------+-----------------------------------+
-|Domain                 |``<namespace>-lab-sec.f5demos.com``|
-+-----------------------+-----------------------------------+
-|Load Balancer Type     |``HTTPS with Custom Certificate``  |
-+-----------------------+-----------------------------------+
-|HTTP Redirect to HTTPS |``✓``                              |
-+-----------------------+-----------------------------------+
-|HTTPS Port             |``443``                            |
-+-----------------------+-----------------------------------+
-|TLS Certificate        |``shared/lab-sec-wildcard``        |
-+-----------------------+-----------------------------------+
-|Origin Pool            |``<namespace>/<namespace>-op``     |
-+-----------------------+-----------------------------------+
-|VIP Advertisement      |``Internet``                       |
-+-----------------------+-----------------------------------+
++-----------------------+------------------------------------+
+| Name                  | ``<namespace>-lb``                 |
++-----------------------+------------------------------------+
+| Domain                | ``<namespace>-lab-sec.f5demos.com``|
++-----------------------+------------------------------------+
+| Load Balancer Type    | HTTPS with Custom Certificate      |
++-----------------------+------------------------------------+
+| HTTP Redirect to HTTPS| **✓**                              |
++-----------------------+------------------------------------+
+| HTTPS Port            | 443                                |
++-----------------------+------------------------------------+
+| TLS Certificate       | shared/lab-sec-wildcard            |
++-----------------------+------------------------------------+
+| Origin Pool           | <namespace>/<namespace>-op         |
++-----------------------+------------------------------------+
+| VIP Advertisement     | Internet                           |
++-----------------------+------------------------------------+

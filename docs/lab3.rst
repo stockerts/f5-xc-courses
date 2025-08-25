@@ -19,13 +19,13 @@ Exercise 1: Create Route on HTTP Load Balancer
 **Details**
 
 +----------------+------------------------------------------+
-| Route Type     | ``Redirect Route``                       |
+| Route Type     | Redirect Route                           |
 +----------------+------------------------------------------+
-| Method         | ``Any``                                  |
+| Method         | Any                                      |
 +----------------+------------------------------------------+
 | Prefix Match   | ``/member/login``                        |
 +----------------+------------------------------------------+
-| Protocol       | ``incoming-proto``                       |
+| Protocol       | incoming-proto``                         |
 +----------------+------------------------------------------+
 | Host           | ``<namespace>.lab-sec.f5demos.com``      |
 +----------------+------------------------------------------+

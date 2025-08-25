@@ -21,7 +21,7 @@ Exercise 1: Create a Route
 +-------------------+-------------------+
 | Name              | ``<namespace>-af``|
 +-------------------+-------------------+
-| Enforcement Mode  | ``Blocking``      |
+| Enforcement Mode  | Blocking          |
 +-------------------+-------------------+
 
 
@@ -31,7 +31,7 @@ Exercise 2: Attach Route to HTTP Load Balancer
 **Details**
 
 +-------------------------------+-------------------+
-| Web Application Firewall (WAF)| ``Enable``        |
+| Web Application Firewall (WAF)| Enable            |
 +-------------------------------+-------------------+
-| Enable (WAF object)           | ``<namespace>-af``|
+| Enable (WAF object)           | <namespace>-af    |
 +-------------------------------+-------------------+

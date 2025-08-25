@@ -1,15 +1,17 @@
 Service Policy
 ==============
 
-Introduction
-------------
+Scenario
+--------
 
-During this lab, you will create a Service Policy.
+We have observed a high number of requests coming from a single IP address. 
+Create a **Service Poilicy** to deny requests from that user while ensuring 
+legitimate traffic continues uninterrupted.
 
-Learning Objectives
--------------------
+Objective
+---------
 
-By the end of the lab you will be able to create the following objects:
+Block request from identified badactor by creating and attaching the following:
 
 - Service Policy (IP Deny)
 

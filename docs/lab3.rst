@@ -1,19 +1,20 @@
 Route
 =====
 
-Introduction
-------------
+Scenario
+--------
 
-During this lab, you will create a Route.
+The development team has introduced a bug where the login page link no longer 
+directs users correctly. Configure a **Route** to redirect requests to the proper login page.
 
-Learning Objectives
--------------------
+Objectives
+----------
 
-By the end of the lab you will be able to create the following objects:
+Successfully redirect requests by configuring the following:
 
 - Route (Redirect)
 
-Exercise 1: Create Route on HTTP Load Balancer
+Exercise 1: Configure a Route on HTTP Load Balancer
 ----------------------------------------------
 
 **Details**

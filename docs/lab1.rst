@@ -1,15 +1,18 @@
 HTTP Load Balancer
 ==================
 
-Introduction
-------------
+Scenario
+--------
 
-During this lab, you will create a HTTP Load Balancer along with all child objects.
+The development team has created a new application that will be publicly accessible. 
+An application **HTTP Load Balancer** will need to be created to manage traffic, 
+enforce security controls, and provide visibility into application usage.
 
-Learning Objectives
--------------------
+Objective
+---------
 
-By the end of the lab you will be able to create the following objects:
+Successfully load the Demonstration Application by creating 
+the following:
 
 - Health check
 - Origin Pool (Public)

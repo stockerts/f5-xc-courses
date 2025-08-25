@@ -1,15 +1,17 @@
 App Firewall (WAF)
 ==================
 
-Introduction
-------------
+Scenario
+--------
 
-During this lab, you will create a App Firewall (WAF).
+We have been informed of multiple attacks targeting the application. 
+Create and attach a **App firewall (WAF)** to mitigate further threats.
 
-Learning Objectives
--------------------
+Objectives
+----------
 
-By the end of the lab you will be able to create the following objects:
+Successfully mitigate attacks against the application by creating 
+and attaching the following:
 
 - App Firewall (WAF)
 

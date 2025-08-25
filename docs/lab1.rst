@@ -31,7 +31,7 @@ Exercise 2: Create a Origin Pool and attached Health Check
 +---------+-------------------------------------+
 |Name     | ``<namespace>-op``                  |
 +---------+-------------------------------------+
-|Type     | Public DNS Name of Origin Server    |
+|**Type** | Public DNS Name of Origin Server    |
 +---------+-------------------------------------+
 |DNS Name | ``demoapp.lab-sec.f5demos.com``     |
 +---------+-------------------------------------+

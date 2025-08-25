@@ -27,11 +27,11 @@ Exercise 2: Create a Origin Pool and attached Health Check
 
 Details
 
-    :Name: ``<namespace>-op``
-    :Type: ``Public DNS Name of Origin Server``
-    :DNS Name: ``demoapp.lab-sec.f5demos.com``
-    :Port: ``80``
-    :TLS: ``Disabled``
+    Name: ``<namespace>-op``
+    Type: ``Public DNS Name of Origin Server``
+    DNS Name: ``demoapp.lab-sec.f5demos.com``
+    Port: ``80``
+    TLS: ``Disabled``
 
 Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 --------------------------------------------------------------

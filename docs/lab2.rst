@@ -5,7 +5,7 @@ Scenario
 --------
 
 We have observed a high number of requests coming from a single IP address. 
-Create a **Service Poilicy** to deny requests from that user while ensuring 
+Create a **Service Policy** to deny requests from that user while ensuring 
 legitimate traffic continues uninterrupted.
 
 Objective

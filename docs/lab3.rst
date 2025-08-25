@@ -16,7 +16,8 @@ By the end of the lab you will be able to create the following objects:
 Exercise 1: Create Route on HTTP Load Balancer
 ----------------------------------------------
 
-Details
+**Details**
+
 +----------------+------------------------------------------+
 | Route Type     | ``Redirect Route``                       |
 +----------------+------------------------------------------+

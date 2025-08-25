@@ -28,22 +28,24 @@ Exercise 2: Create a Origin Pool and attached Health Check
 ----------------------------------------------------------
 
 **Details**
+
 +---------+-------------------------------------+
-|Name     | ``<namespace>-op``                  |
+|Name     |``<namespace>-op``                   |
 +---------+-------------------------------------+
-|**Type** | Public DNS Name of Origin Server    |
+|**Type** |Public DNS Name of Origin Server     |
 +---------+-------------------------------------+
-|DNS Name | ``demoapp.lab-sec.f5demos.com``     |
+|DNS Name |``demoapp.lab-sec.f5demos.com``      |
 +---------+-------------------------------------+
-|Port.    | 80                                  |
+|Port     |80                                   |
 +---------+-------------------------------------+
-|TLS      | Disabled                            |
+|TLS      |Disabled                             |
 +---------+-------------------------------------+
 
 Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 --------------------------------------------------------------
 
 **Details**
+
 +-----------------------+-----------------------------------+
 |Name                   |``<namespace>-lb``                 |
 +-----------------------+-----------------------------------+
@@ -51,7 +53,7 @@ Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 +-----------------------+-----------------------------------+
 |Load Balancer Type     |``HTTPS with Custom Certificate``  |
 +-----------------------+-----------------------------------+
-|HTTP Redirect to HTTPS |``Check``                          |
+|HTTP Redirect to HTTPS |``✓``                              |
 +-----------------------+-----------------------------------+
 |HTTPS Port             |``443``                            |
 +-----------------------+-----------------------------------+

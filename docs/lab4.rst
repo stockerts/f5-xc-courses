@@ -16,7 +16,8 @@ By the end of the lab you will be able to create the following objects:
 Exercise 1: Create a Route
 --------------------------
 
-Details
+**Details**
+
 +-------------------+-------------------+
 | Name              | ``<namespace>-af``|
 +-------------------+-------------------+
@@ -27,7 +28,8 @@ Details
 Exercise 2: Attach Route to HTTP Load Balancer
 ----------------------------------------------
 
-Details
+**Details**
+
 +-------------------------------+-------------------+
 | Web Application Firewall (WAF)| ``Enable``        |
 +-------------------------------+-------------------+

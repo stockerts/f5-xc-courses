@@ -16,7 +16,8 @@ By the end of the lab you will be able to create the following objects:
 Exercise 1: Create a Service Policy
 -----------------------------------
 
-Details
+**Details**
+
 +--------------------+----------------------------+
 | Name               | ``<namespace>-ipdeny-sp``  |
 +--------------------+----------------------------+
@@ -31,7 +32,8 @@ Details
 Exercise 2: Attach Service Policy to a HTTP Load Balancer
 ---------------------------------------------------------
 
-Details
+**Details**
+
 +-------------------+---------------------------------------+
 | Service Policies  | ``Apply Specified Service Polices``   |
 +-------------------+---------------------------------------+

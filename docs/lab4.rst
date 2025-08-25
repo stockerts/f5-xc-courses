@@ -7,8 +7,8 @@ Scenario
 We have been informed of multiple attacks targeting the application. 
 Create and attach a **App Firewall (WAF)** to mitigate further threats.
 
-Objectives
-----------
+Objective
+---------
 
 Successfully mitigate attacks against the application by creating 
 and attaching the following:

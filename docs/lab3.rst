@@ -7,8 +7,8 @@ Scenario
 The development team has introduced a bug where the login page link no longer 
 directs users correctly. Configure a **Route** to redirect requests to the proper login page.
 
-Objectives
-----------
+Objective
+---------
 
 Successfully redirect requests by configuring the following:
 

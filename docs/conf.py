@@ -1,8 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 # -- Project information
 
-project = 'NGINX Plus Introdution'
-copyright = '2023'
+project = 'F5 Distributed Cloud'
+copyright = '2025'
 author = 'F5'
 
 #release = '0.1'

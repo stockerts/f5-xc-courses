@@ -10,7 +10,7 @@ By the end of the course you will be able to create the following objects:
 
 - Health check
 - Origin Pool (Public)
-- Load Balancer (Public)
+- HTTP Load Balancer (Public)
 - Service Policy
 - Route
 - App Firewall (WAF)

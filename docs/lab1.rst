@@ -16,7 +16,7 @@ the following:
 
 - Health check
 - Origin Pool (Public)
-- Load Balancer (Public)
+- HTTP Load Balancer (Public)
 
 Exercise 1: Create a Health Check
 ---------------------------------

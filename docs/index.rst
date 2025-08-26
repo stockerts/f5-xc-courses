@@ -23,7 +23,7 @@ Before starting the session you will need the following:
 - Account at my.f5.com
 - Invite to UDF (Unified Demontration Framework) course 
 
-.. note:: The UDF course will provide access to the F5 Distribtued Cloud console.
+.. note:: The UDF course will provide access to the F5 Distributed Cloud console.
 
 Index
 ------------

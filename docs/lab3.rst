@@ -15,7 +15,7 @@ Successfully redirect requests by configuring the following:
 - Route (Redirect)
 
 Exercise 1: Configure a Route on HTTP Load Balancer
-----------------------------------------------
+---------------------------------------------------
 
 **Details**
 

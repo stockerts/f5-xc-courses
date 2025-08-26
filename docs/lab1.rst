@@ -21,7 +21,7 @@ the following:
 Exercise 1: Create a Health Check
 ---------------------------------
 
-**Details**
+**Quick Reference**
 
 +---------+-------------------------------------+
 | Name    | ``<namespace>-hc``                  |
@@ -30,7 +30,7 @@ Exercise 1: Create a Health Check
 Exercise 2: Create a Origin Pool and attach Health Check
 ----------------------------------------------------------
 
-**Details**
+**Quick Reference**
 
 +--------------+-------------------------------------+
 | Name         | ``<namespace>-op``                  |
@@ -49,7 +49,7 @@ Exercise 2: Create a Origin Pool and attach Health Check
 Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 --------------------------------------------------------------
 
-**Details**
+**Quick Reference**
 
 +-----------------------+------------------------------------+
 | Name                  | ``<namespace>-lb``                 |

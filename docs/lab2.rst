@@ -18,7 +18,7 @@ Block request from identified badactor by creating and attaching the following:
 Exercise 1: Create a Service Policy
 -----------------------------------
 
-**Details**
+**Quick Reference**
 
 +--------------------+----------------------------+
 | Name               | ``<namespace>-ipdeny-sp``  |
@@ -34,7 +34,7 @@ Exercise 1: Create a Service Policy
 Exercise 2: Attach Service Policy to a HTTP Load Balancer
 ---------------------------------------------------------
 
-**Details**
+**Quick Reference**
 
 +-------------------+---------------------------------------+
 | Service Policies  | Apply Specified Service Polices       |

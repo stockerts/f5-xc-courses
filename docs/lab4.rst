@@ -18,7 +18,7 @@ and attaching the following:
 Exercise 1: Create a Route
 --------------------------
 
-**Details**
+**Quick Reference**
 
 +-------------------+-------------------+
 | Name              | ``<namespace>-af``|
@@ -30,7 +30,7 @@ Exercise 1: Create a Route
 Exercise 2: Attach Route to HTTP Load Balancer
 ----------------------------------------------
 
-**Details**
+**Quick Reference**
 
 +-------------------------------+-------------------+
 | Web Application Firewall (WAF)| Enable            |

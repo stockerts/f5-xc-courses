@@ -18,19 +18,6 @@ the following:
 - Origin Pool (Public)
 - HTTP Load Balancer (Public)
 
-Namespace Update
-----------------
-
-.. raw:: html
-
-   <div style="margin: 1em 0; padding: 1em; border: 0px solid #ccc;">
-     <label for="namespaceInput">Enter your namespace:</label>
-     <input id="namespaceInput" type="text" placeholder="e.g. sassy-panda" />
-     <button onclick="setNamespace()">Save</button>
-   </div>
-
-   <p><strong>Current namespace:</strong> <span id="currentNamespace">&lt;namespace&gt;</span></p>
-
 Exercise 1: Create a Health Check
 ---------------------------------
 

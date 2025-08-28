@@ -28,7 +28,7 @@ Before starting the session you will need the following:
 Preparation
 -----------
 
-Before starting lab 1, update your namespace to dynamically update the guide.
+Before starting the course, update your namespace to dynamically update the guide.
 
 .. raw:: html
 

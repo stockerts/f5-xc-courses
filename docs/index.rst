@@ -47,7 +47,7 @@ Index
 
 .. toctree::
 
-   index
+   intro   <index>
    lab1
    lab2
    lab3

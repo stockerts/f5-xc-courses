@@ -18,6 +18,24 @@ the following:
 - Origin Pool (Public)
 - HTTP Load Balancer (Public)
 
+Namespace Update
+----------------
+
+.. raw:: html
+
+   <div style="margin: 1em 0; padding: 1em; border: 1px solid #ccc;">
+     <label for="namespaceInput" style="font-size: 1.1em; margin-right: 0.5em;">Enter your namespace:</label>
+     <input id="namespaceInput" type="text" placeholder="e.g. sassy-panda"
+            style="font-size: 1.1em; padding: 0.4em; width: 200px; margin-right: 0.5em;" />
+     <button onclick="setNamespace()"
+             style="font-size: 1.1em; padding: 0.5em 1em; cursor: pointer; border-radius: 4px;">
+       Save
+     </button>
+   </div>
+
+   <p><strong>Current namespace:</strong> <span id="currentNamespace">&lt;namespace&gt;</span></p>
+
+
 Exercise 1: Create a Health Check
 ---------------------------------
 
@@ -54,7 +72,7 @@ Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 +-----------------------+------------------------------------+
 | Name                  | ``<namespace>-lb``                 |
 +-----------------------+------------------------------------+
-| Domain                | ``<namespace>-lab-sec.f5demos.com``|
+| Domain                | ``<namespace>.lab-sec.f5demos.com``|
 +-----------------------+------------------------------------+
 | Load Balancer Type    | HTTPS with Custom Certificate      |
 +-----------------------+------------------------------------+

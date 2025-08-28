@@ -1,5 +1,5 @@
-F5 Distribtued Cloud Introdution
-================================
+Introdution
+===========
 
 Welcome to this F5 Distributed Cloud course.
 
@@ -47,6 +47,7 @@ Index
 
 .. toctree::
 
+   index
    lab1
    lab2
    lab3

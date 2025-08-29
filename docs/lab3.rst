@@ -14,6 +14,13 @@ Successfully redirect requests by configuring the following:
 
 - Route (Redirect)
 
+Observation
+-----------
+
+Open a new browser tab, navigate to the following URL.
+
+``https://<namespace>.lab-sec.f5demos.com/member/login``
+
 Exercise 1: Configure a Route on HTTP Load Balancer
 ---------------------------------------------------
 
@@ -32,3 +39,10 @@ Exercise 1: Configure a Route on HTTP Load Balancer
 +----------------+------------------------------------------+
 | Redirect Path  | ``/login``                               |
 +----------------+------------------------------------------+
+
+Validation
+----------
+
+Navigate to the following URL.
+
+``https://<namespace>.lab-sec.f5demos.com/member/login``

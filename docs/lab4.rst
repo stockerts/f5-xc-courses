@@ -15,6 +15,13 @@ and attaching the following:
 
 - App Firewall (WAF)
 
+Observation
+-----------
+
+Open a new browser tab, navigate to the following URL.
+
+``https://<namespace>.lab-sec.f5demos.com/waf``
+
 Exercise 1: Create a Route
 --------------------------
 
@@ -37,3 +44,10 @@ Exercise 2: Attach Route to HTTP Load Balancer
 +-------------------------------+-------------------+
 | Enable (WAF object)           | <namespace>-af    |
 +-------------------------------+-------------------+
+
+Validation
+----------
+
+Navigate to the following URL.
+
+``https://<namespace>.lab-sec.f5demos.com/waf``

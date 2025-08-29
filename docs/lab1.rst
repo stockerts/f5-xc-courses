@@ -68,3 +68,10 @@ Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 +-----------------------+------------------------------------+
 | VIP Advertisement     | Internet                           |
 +-----------------------+------------------------------------+
+
+Validation
+----------
+
+Open a new browser tab, navigate to the following URL.
+
+``https://<namespace>.lab-sec.f5demos.com``

@@ -74,6 +74,4 @@ Validation
 
 Open a new browser tab, navigate to the following URL.
 
-.. raw:: html
-
-   <a href="https://<namespace>.lab-sec.f5demos.com" target="_blank">https://<namespace>.lab-sec.f5demos.com</a>
+` ``https://<namespace>.lab-sec.f5demos.com`` <hhttps://<namespace>.lab-sec.f5demos.com>`_

@@ -74,4 +74,4 @@ Validation
 
 Open a new browser tab, navigate to the following URL.
 
-``https://<namespace>.lab-sec.f5demos.com``
+https://<namespace>.lab-sec.f5demos.com

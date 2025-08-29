@@ -20,7 +20,9 @@ Observation
 
 Open a new browser tab, navigate to the following URL.
 
-https://<namespace>.lab-sec.f5demos.com/waf
+.. code-block:: text
+    
+   https://<namespace>.lab-sec.f5demos.com/waf
 
 Exercise 1: Create a Route
 --------------------------
@@ -50,4 +52,6 @@ Validation
 
 Navigate to the following URL.
 
-https://<namespace>.lab-sec.f5demos.com/waf
+.. code-block:: text
+    
+   https://<namespace>.lab-sec.f5demos.com/waf

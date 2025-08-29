@@ -19,7 +19,9 @@ Observation
 
 Open a new browser tab, navigate to the following URL.
 
-https://<namespace>.lab-sec.f5demos.com/member/login
+.. code-block:: text
+    
+   https://<namespace>.lab-sec.f5demos.com/member/login
 
 Exercise 1: Configure a Route on HTTP Load Balancer
 ---------------------------------------------------
@@ -45,4 +47,6 @@ Validation
 
 Navigate to the following URL.
 
-https://<namespace>.lab-sec.f5demos.com/member/login
+.. code-block:: text
+    
+   https://<namespace>.lab-sec.f5demos.com/member/login

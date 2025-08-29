@@ -33,8 +33,9 @@ Exercise 2: Create a Origin Pool and attach Health Check
 **Quick Reference**
 
 +--------------+-------------------------------------+
-| Name         |.. code-block:: text                 |
-|              |   <namespace>-op                    |
+| Name         | .. code-block:: text                |
+|              |                                     |
+|              |    <namespace>-op                   |
 +--------------+-------------------------------------+
 | Type         | Public DNS Name of Origin Server    |
 +--------------+-------------------------------------+

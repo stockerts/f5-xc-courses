@@ -33,13 +33,19 @@ Exercise 1: Configure a Route on HTTP Load Balancer
 +----------------+------------------------------------------+
 | Method         | Any                                      |
 +----------------+------------------------------------------+
-| Prefix Match   | ``/member/login``                        |
+| Prefix Match   | .. code-block:: text                     |
+|                |                                          |
+|                |    /member/login                         |
 +----------------+------------------------------------------+
 | Protocol       | incoming-proto                           |
 +----------------+------------------------------------------+
-| Host           | ``<namespace>.lab-sec.f5demos.com``      |
+| Host           | .. code-block:: text                     |
+|                |                                          |
+|                |    <namespace>.lab-sec.f5demos.com       |
 +----------------+------------------------------------------+
-| Redirect Path  | ``/login``                               |
+| Redirect Path  | .. code-block:: text                     |
+|                |                                          |
+|                |    /login                                |
 +----------------+------------------------------------------+
 
 Validation

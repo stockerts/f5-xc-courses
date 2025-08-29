@@ -21,7 +21,9 @@ Exercise 1: Create a Service Policy
 **Quick Reference**
 
 +--------------------+----------------------------+
-| Name               | ``<namespace>-ipdeny-sp``  |
+| Name               | .. code-block:: text       | 
+|                    |                            | 
+|                    |    <namespace>-ipdeny-sp   |
 +--------------------+----------------------------+
 | Rule               | Denied Sources             |
 +--------------------+----------------------------+

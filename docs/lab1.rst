@@ -23,9 +23,11 @@ Exercise 1: Create a Health Check
 
 **Quick Reference**
 
-+---------+-------------------------------------+
-| Name    | ``<namespace>-hc``                  |
-+---------+-------------------------------------+
++--------------+-------------------------------------+
+| Name         | .. code-block:: text                |
+|              |                                     |
+|              |    <namespace>-hc                   |
++--------------+-------------------------------------+
 
 Exercise 2: Create a Origin Pool and attach Health Check
 ----------------------------------------------------------
@@ -39,7 +41,9 @@ Exercise 2: Create a Origin Pool and attach Health Check
 +--------------+-------------------------------------+
 | Type         | Public DNS Name of Origin Server    |
 +--------------+-------------------------------------+
-| DNS Name     | ``demoapp.lab-sec.f5demos.com``     |
+| DNS Name     | .. code-block:: text                |
+|              |                                     |
+|              |    demoapp.lab-sec.f5demos.com      |
 +--------------+-------------------------------------+
 | Port         | 80                                  |
 +--------------+-------------------------------------+
@@ -54,9 +58,13 @@ Exercise 3: Create a HTTP Load Balancer and attach Origin Pool
 **Quick Reference**
 
 +-----------------------+------------------------------------+
-| Name                  | ``<namespace>-lb``                 |
+| Name                  | .. code-block:: text               | 
+|                       |                                    | 
+|                       |    <namespace>-lb                  |
 +-----------------------+------------------------------------+
-| Domain                | ``<namespace>.lab-sec.f5demos.com``|
+| Domain                | .. code-block:: text               | 
+|                       |                                    | 
+|                       |    <namespace>.lab-sec.f5demos.com |
 +-----------------------+------------------------------------+
 | Load Balancer Type    | HTTPS with Custom Certificate      |
 +-----------------------+------------------------------------+

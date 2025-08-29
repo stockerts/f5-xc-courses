@@ -29,11 +29,13 @@ Exercise 1: Create a Route
 
 **Quick Reference**
 
-+-------------------+-------------------+
-| Name              | ``<namespace>-af``|
-+-------------------+-------------------+
-| Enforcement Mode  | Blocking          |
-+-------------------+-------------------+
++-------------------+----------------------+
+| Name              | .. code-block:: text |
+|                   |                      |
+|                   |    <namespace>-af    |
++-------------------+----------------------+
+| Enforcement Mode  | Blocking             |
++-------------------+----------------------+
 
 
 Exercise 2: Attach Route to HTTP Load Balancer
